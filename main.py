@@ -41,3 +41,7 @@ for var in metaVar:
     else:
         # Variable Type not recognized
         print(var + '-> Unrecognized' + str(metaVarFormat.get(var, '')))
+
+# Pending Items
+# How to combine variables into grid?
+# UI?
